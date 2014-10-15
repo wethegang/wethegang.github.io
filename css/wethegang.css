@@ -1,3 +1,27 @@
 #thegangbg{
-    background-color: #2a1a1a
+    background-image: url("../resources/bg/swirl_pattern.png");
+    background-repeat: repeat;
+}
+
+#gangdisc{
+    margin-top: 10%;
+}
+
+#gangname{
+    color: black;
+    font-family: 'Josefin Slab', fantasy;
+    font-size: 65px;
+}
+ 
+#gangtag{
+    color: black;
+    font-family: 'Satisfy', cursive;
+    width: 650px;
+    margin-top: 40px;
+    font-size: 45px;
+}
+
+#gangmotto{
+    color: black;
+    font-family: 'Josefin Slab', fantasy;
 }
