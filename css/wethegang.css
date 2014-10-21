@@ -3,8 +3,13 @@
     background-repeat: repeat;
 }
 
+.container-fluid{
+    margin-left:15%;
+    margin-right:15%;
+}
+
 #gangdisc{
-    margin-top: 10%;
+    margin-top: 15%;
 }
 
 #gangname{
@@ -24,4 +29,19 @@
 #gangmotto{
     color: black;
     font-family: 'Josefin Slab', fantasy;
+}
+
+.icon{
+    font-size:x-large;
+    color:black;
+}
+
+#darrow{
+    font-size:x-large;
+    position:relative;
+    top:40px;
+    color:black;
+}
+#darrow:hover{
+    font-size:xx-large;
 }
