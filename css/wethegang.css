@@ -12,16 +12,24 @@
     margin-top: 15%;
 }
 
+#ganglogo{
+    color: black;
+    font-family: 'Josefin Slab', fantasy; 
+    font-size: 36px;
+}
+
 #gangname{
     color: black;
     font-family: 'Josefin Slab', fantasy;
+    text-shadow: 3px 3px #E9E9E9;
     font-size: 65px;
 }
  
 #gangtag{
     color: black;
     font-family: 'Satisfy', cursive;
-    width: 650px;
+    text-shadow: 2px 2px #E9E9E9;
+    max-width: 650px;
     margin-top: 40px;
     font-size: 45px;
 }
@@ -29,6 +37,7 @@
 #gangmotto{
     color: black;
     font-family: 'Josefin Slab', fantasy;
+    text-shadow: 2px 2px #E9E9E9;
 }
 
 .icon{
