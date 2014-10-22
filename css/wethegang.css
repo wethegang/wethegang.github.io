@@ -14,14 +14,14 @@
 
 #ganglogo{
     color: black;
-    font-family: 'Josefin Slab', fantasy; 
-    font-size: 36px;
+    font-family: 'Bevan', cursive;
+    font-size: 30px;
 }
 
 #gangname{
     color: black;
-    font-family: 'Josefin Slab', fantasy;
-    text-shadow: 3px 3px #E9E9E9;
+    font-family: 'Bevan', cursive;
+    text-shadow: 4px 3px #E9E9E9;
     font-size: 65px;
 }
  
@@ -30,13 +30,13 @@
     font-family: 'Satisfy', cursive;
     text-shadow: 2px 2px #E9E9E9;
     max-width: 650px;
-    margin-top: 40px;
+    margin-top: 45px;
     font-size: 45px;
 }
 
 #gangmotto{
     color: black;
-    font-family: 'Josefin Slab', fantasy;
+    font-family: 'Bevan', cursive;
     text-shadow: 2px 2px #E9E9E9;
 }
 
@@ -51,6 +51,49 @@
     top:40px;
     color:black;
 }
+
 #darrow:hover{
     font-size:xx-large;
+}
+
+#peopleblock{
+    margin-top:30%;
+    color:black;
+}
+
+#peoplehead{
+    font-family: 'Bevan', cursive;
+    text-shadow: 2px 2px #E9E9E9;
+    margin-bottom: 6%;
+}
+
+.peopleimg{
+    margin:40px;
+}
+
+.colgrids{
+    text-align:center; ! important
+
+}
+
+.peoplename{
+    font-family: 'Bevan', cursive;
+    text-shadow: 2px 2px #E9E9E9;
+    font-size:20px;
+}
+
+.peoplelinks{
+    color:black;
+}
+
+.footer{
+    margin-top:7%;
+    padding:20px;
+}
+
+.inner{
+    color: black;
+    font-family: 'Satisfy', cursive;
+    text-shadow: 2px 2px #E9E9E9;
+    text-align:center; 
 }
