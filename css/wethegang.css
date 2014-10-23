@@ -64,11 +64,11 @@
 #peoplehead{
     font-family: 'Bevan', cursive;
     text-shadow: 2px 2px #E9E9E9;
-    margin-bottom: 6%;
 }
 
 .peopleimg{
-    margin:40px;
+    margin-top:40px;
+    margin-bottom:15px;
 }
 
 .colgrids{
@@ -83,6 +83,7 @@
 }
 
 .peoplelinks{
+    margin-top:10px;
     color:black;
 }
 
