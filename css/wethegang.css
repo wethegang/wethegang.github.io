@@ -85,6 +85,21 @@
 .peoplelinks{
     margin-top:10px;
     color:black;
+    margin-bottom:10px;
+}
+
+.peopleicon{
+    font-size:x-large;
+    color:#454243;
+
+}
+
+.peopledesc{
+    color:black;
+    font-family: 'Satisfy', cursive;
+    text-shadow: 2px 2px #E9E9E9;
+    font-size:17px;
+
 }
 
 .footer{
