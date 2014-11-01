@@ -21,14 +21,12 @@
 #gangname{
     color: black;
     font-family: 'Bevan', cursive;
-    text-shadow: 4px 3px #E9E9E9;
     font-size: 65px;
 }
  
 #gangtag{
     color: black;
     font-family: 'Satisfy', cursive;
-    text-shadow: 2px 2px #E9E9E9;
     max-width: 650px;
     margin-top: 45px;
     font-size: 45px;
@@ -37,7 +35,6 @@
 #gangmotto{
     color: black;
     font-family: 'Bevan', cursive;
-    text-shadow: 2px 2px #E9E9E9;
 }
 
 .icon{
@@ -63,7 +60,6 @@
 
 #peoplehead{
     font-family: 'Bevan', cursive;
-    text-shadow: 2px 2px #E9E9E9;
 }
 
 .peopleimg{
@@ -78,7 +74,6 @@
 
 .peoplename{
     font-family: 'Bevan', cursive;
-    text-shadow: 2px 2px #E9E9E9;
     font-size:20px;
 }
 
@@ -97,7 +92,6 @@
 .peopledesc{
     color:black;
     font-family: 'Satisfy', cursive;
-    text-shadow: 2px 2px #E9E9E9;
     font-size:17px;
 
 }
@@ -110,6 +104,5 @@
 .inner{
     color: black;
     font-family: 'Satisfy', cursive;
-    text-shadow: 2px 2px #E9E9E9;
     text-align:center; 
 }
