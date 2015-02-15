@@ -5,6 +5,7 @@
 
 .container-fluid{
     margin-left:15%;
+    margin-top:2%;
     margin-right:15%;
 }
 
@@ -15,7 +16,7 @@
 #ganglogo{
     color: black;
     font-family: 'Bevan', cursive;
-    font-size: 30px;
+    font-size: 40px;
 }
 
 #gangname{
